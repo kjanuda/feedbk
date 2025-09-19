@@ -1,14 +1,14 @@
 {
-  "name": "new-folder",
+  "name": "feedbk",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Feedback application using Express and Passport",
+  "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "januda",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
